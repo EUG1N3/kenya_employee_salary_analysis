@@ -1,2 +1,1 @@
-# kenya_employee_salary_analysis
-Automated People Analytics and Payroll Budget Audit framework for Savanna Tech Group (Nairobi, Kenya). Built with SQL to analyze a 420-person workforce, identify department budget anomalies, track internal salary equity metrics, and provide data-backed compensation insights directly to the CEO.
+A descriptive data analysis and payroll budget audit for Savanna Tech Group (Nairobi, Kenya) using SQL Built to evaluate a 420-person workforce extract, identify over-budget departments, map internal salary equity deviations, and deliver an executive report to the CEO.
